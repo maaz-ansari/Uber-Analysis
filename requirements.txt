@@ -1,4 +1,3 @@
-ipython
 matplotlib 
 networkx 
 pandas 
@@ -6,3 +5,5 @@ plotly
 seaborn 
 voila
 voila-material
+voila-gridstack 
+Pygments
